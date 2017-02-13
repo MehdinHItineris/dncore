@@ -10,5 +10,6 @@ namespace ConsoleApplication
         }
         
         // This is a comment.
+        // And another comment
     }    
 }
