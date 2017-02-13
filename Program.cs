@@ -4,7 +4,8 @@ namespace ConsoleApplication
 {
     public class Program
     {
-        // OK
+        // OK,
+        // again
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
